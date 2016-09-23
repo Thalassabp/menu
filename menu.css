@@ -1,0 +1,48 @@
+.active {
+color: red;
+}
+
+#menu {
+font-family: arial, sans-serif;
+text-align: center;
+padding: 20px 0 20px 0;
+background-color: #767272;
+width: 100%;
+}
+
+#menu li {
+list-style: none;
+display: inline;
+font-size: 1.2em;
+font-weight: lighter;
+padding: 20px;
+
+}
+#menu a {
+color: white;
+font-family: helvetica, arial, sans-serif;
+text-transform: uppercase;
+text-decoration: none;
+}
+
+#menu a.active {
+color: #9a9a9a;
+}
+
+#menu a:hover {
+color: #9a9a9a;
+}
+
+#text {
+margin-top: 20px;
+width: 100%;
+Height: 100px;
+}   
+
+h1 {
+font-family: arial, sans-serif;
+}
+
+p {
+font-family: arial, sans-serif;
+}
